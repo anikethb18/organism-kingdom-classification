@@ -1,4 +1,4 @@
-# organism-kingdom-classification
+# Organism-kingdom-classification
 Machine learning pipeline for classifying organisms based on DNA codon usage patterns.
 # Organism Prediction Based on Codon Usage
 
